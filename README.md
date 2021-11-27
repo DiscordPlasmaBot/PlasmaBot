@@ -24,6 +24,11 @@ Major rewrites of the back-end/interface increments `major`, each `major` increm
 
 ## Credits
 
-* Niputi#2490 (162325985079984129)
+* Jonfirexbox#8859 (856176853719187506)
 
-- *
+- * Amazing Dev (that would be me who is the one who started the bot)
+
+* Pwa#5451 (140149699486154753)
+
+- * Best person ever!
+- * Coded this entire bot
