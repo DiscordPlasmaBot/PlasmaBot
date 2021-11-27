@@ -1,9 +1,9 @@
 # Zuihou - a Fork of [Felix](https://github.com/ParadoxalCorp/felix-production) 
 
-[![discord]()](https://discord.gg/Ud49hQJ)
-[![Discord Bots](https://discordbots.org/api/widget/status/327144735359762432.svg)](https://discordbots.org/bot/327144735359762432)
+[![discord](https://discord.com/api/guilds/909134421054095360/widget.json)](https://discord.gg/4jZbzXhuNF)
+[![Discord Bots](https://discordbots.org/api/widget/status/903100727562473472.svg)](https://discordbots.org/bot/903100727562473472)
 
-[![Discord Bot List](https://discordbotlist.com/bots/327144735359762432/widget.svg)](https://discordbotlist.com/bots/327144735359762432/)
+[![Discord Bot List](https://discordbotlist.com/bots/903100727562473472/widget.svg)](https://discordbotlist.com/bots/903100727562473472/)
 
 This repository contains the main source code of Zuihou, the Discord bot.
 
