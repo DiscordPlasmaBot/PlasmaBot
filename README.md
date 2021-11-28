@@ -3,7 +3,7 @@
 [![discord](https://discord.com/api/guilds/909134421054095360/widget.json)](https://discord.gg/4jZbzXhuNF)
 [![Discord Bots](https://discordbots.org/api/widget/status/903100727562473472.svg)](https://discordbots.org/bot/903100727562473472)
 
-[![Discord Bots](https://top.gg/api/widget/903100727562473472.svg)(https://top.gg/bot/903100727562473472)
+[![Discord Bots](https://top.gg/api/widget/903100727562473472.svg)(https://top.gg/bot/903100727562473472)]
 
 This repository contains the main source code of Zuihou, the Discord bot.
 
