@@ -1,13 +1,13 @@
-# Zuihou - a Fork of [Felix](https://github.com/ParadoxalCorp/felix-production) 
+# PlasmaBot - a Fork of [Felix](https://github.com/ParadoxalCorp/felix-production) 
 
 [![discord](https://discord.com/api/guilds/909134421054095360/widget.json)](https://discord.gg/4jZbzXhuNF)
 [![Discord Bots](https://discordbots.org/api/widget/status/903100727562473472.svg)](https://discordbots.org/bot/903100727562473472)
 
 [![Discord Bots](https://top.gg/api/widget/903100727562473472.svg)(https://top.gg/bot/903100727562473472)]
 
-This repository contains the main source code of Zuihou, the Discord bot.
+This repository contains the main source code of PlasmaBot, the Discord bot.
 
-As Zuihou rely on third-party services and other micro-services, not everything is in this repository
+As PlasmaBot rely on third-party services and other micro-services, not everything is in this repository
 
 
 ## Development cycle
@@ -16,7 +16,7 @@ As Zuihou rely on third-party services and other micro-services, not everything 
 
 ## Versioning 
 
-Zuihoi's versioning works like semantic versioning, in the `major.minor.patch` format 
+PlasmaBot's versioning works like semantic versioning, in the `major.minor.patch` format 
 
 Bug fixes increments `patch` and new features/enhancements increments `minor`
 
